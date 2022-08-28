@@ -1,0 +1,51 @@
+
+.btn.btn-secondary.rounded-circle
+{
+    min-width: 70px;
+    display:inline-block;
+    max-width: 70px;
+    float:none;
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    border: 1px solid white;
+    
+    
+}
+.card-body
+{
+    background-color: aqua;
+}
+#ip
+{
+    text-align: right;
+    height: 80px;
+    font-size:xx-large  
+    
+}
+#forms
+{
+  align-items: center;  
+}
+.card
+{
+ justify-items:stretch;
+}
+
+#c
+{
+    background-color: brown;
+}
+#equal
+{ 
+ justify-content: center; 
+  text-align:center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+ 
+  min-width: none;
+  max-width: 150px;
+    
+    
+}
